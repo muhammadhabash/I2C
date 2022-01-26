@@ -1,5 +1,4 @@
 #include "MCAL/I2C/I2C_interface.h"
-#include "MCAL/Timers/Timers.h"
 
 
 #define  PORTA_DIRECTION (*((volatile uint8_t*) 0x3A))
